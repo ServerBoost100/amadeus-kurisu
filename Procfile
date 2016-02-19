@@ -1,1 +1,1 @@
-web: node Amadeus.js
+node Amadeus.js
